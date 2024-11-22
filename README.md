@@ -16,3 +16,8 @@ First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/mahiprime2001/ai-tools.git
 cd ai-tools
+```
+
+### step 2: Install Dependencies
+Ensure Python 3.8+ is installed, then install the required libraries:
+
